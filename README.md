@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RishabSingh
+- 👋 Hi, I’m @Subham Pandey
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning BTECH
 - 💞️ I’m looking to collaborate on ...
